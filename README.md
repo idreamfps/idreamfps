@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @idreamfps
 - 👀 I’m interested in ... computers, surfing, electronic music, psychology, space stuff and world peace
 
-- 🌱 I’m currently learning ... Computer Networking, Python, Ansible, C++, C#
+- 🌱 I’m currently learning ... Computer Networking and Python
 - 💞️ I’m looking to collaborate on ... I'm not sure right now. I'm just learning and working on my foundational skills.
 - 📫 How to reach me ... idreamfps@gmail.com 
 
